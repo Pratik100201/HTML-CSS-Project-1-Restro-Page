@@ -33,7 +33,7 @@ ul>li{
     gap: 55px;
 }
 a{
-    color: #FFC93C;
+    color:#ffc233;
 
     text-decoration: none;
 }
@@ -49,7 +49,7 @@ h1{
     display: flex;
     font-weight: bolder;
     font-size: 70px;
-    color: #FFC93C;
+    color:#ffc233;
     text-align: center;
     align-items: center;
     justify-content: center;
